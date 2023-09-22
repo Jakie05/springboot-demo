@@ -75,6 +75,7 @@ Before deploying to AWS EC2, make sure you have the following set up:
 
 6. Add the source code to the staging area and commit it to the local Git repository.
 
+     ```bash
     git add .
     git commit -m "Initial commit"
 
